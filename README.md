@@ -2,7 +2,7 @@
 
 Live demo: https://whatsapp-booking-osmf.onrender.com (WhatsApp messages won't work for any users other than me due to using Twilio's free plan)
 
-A small scheduling app for creating and sending booking confirmations via WhatsApp links. Built with Flask. Appointments and users are stored in memory — no external database to set up or pay for, and no free-tier database expiring every 30 days. The trade-off: appointment data resets whenever the app restarts or redeploys. Login credentials are fixed (see below).
+A small scheduling app for creating and sending booking confirmations via WhatsApp links. Built with Flask. 
 
 ## Features
 - Create and view appointments
